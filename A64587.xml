@@ -1,0 +1,396 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Upon that worthily admired patriot, and honour of his country the Observator</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64587</idno>
+            <idno type="STC">Wing U106A</idno>
+            <idno type="STC">ESTC R23562</idno>
+            <idno type="EEBO-CITATION">12072962</idno>
+            <idno type="OCLC">ocm 12072962</idno>
+            <idno type="VID">53530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53530)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 584:5 or 2015:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Upon that worthily admired patriot, and honour of his country the Observator</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Harris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A light poem in praise of Roger L'Estrange.</note>
+                  <note>At head of title: [Line of Greek] In English, To undo a city is an easie matter even for the wicked; but to set it right again is difficult.</note>
+                  <note>Item at reel 584:5 identified as Wing U106A (number cancelled).</note>
+                  <note>Reproductions of original in Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:53530:1"/>
+            <pb n="1" facs="tcp:53530:1" rendition="simple:additions"/>
+            <head>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q> In Engliſh, <q>To undo a City is an eaſie matter even for the Wicked; But to ſet it right again is difficult.</q>
+            </head>
+            <head>Upon that worthily admired PATRIOT,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> AND Honour of his Country THE OBSERVATOR <hi>Secula Phaenices nulla tulere duos.</hi>
+               <note place="margin">Here <hi>(viz.)</hi> in the mat<g ref="char:EOLhyphen"/>ter of <hi>Odyſ<g ref="char:EOLhyphen"/>ſeas.</hi>
+               </note>
+               <note place="margin">
+                  <g ref="char:V">Ʋ</g>lyſſes <hi>and</hi> L'Eſtrange.</note>
+            </head>
+            <div type="poem">
+               <lg>
+                  <l>
+                     <note place="margin">Quam rem ita gravi<g ref="char:EOLhyphen"/>ter tulit <hi>A<g ref="char:EOLhyphen"/>lexander,</hi> ut fecundâ le<g ref="char:EOLhyphen"/>gatione de<g ref="char:EOLhyphen"/>nuo bellum deprecanti<g ref="char:EOLhyphen"/>bus ita de<g ref="char:EOLhyphen"/>mum re<g ref="char:EOLhyphen"/>miſerit, ut <hi>Oratores,</hi> et duces, quo<g ref="char:EOLhyphen"/>rum fidu<g ref="char:EOLhyphen"/>ciâ toties rebellent, ſibi dedan<g ref="char:EOLhyphen"/>tur; eo ta<g ref="char:EOLhyphen"/>men de<g ref="char:EOLhyphen"/>mum res eſt deducta ut retentis <hi>Oratoribus,</hi> duces in ex<g ref="char:EOLhyphen"/>ilium age<g ref="char:EOLhyphen"/>rentur.</note> 
+                     <hi>WEre</hi> Brains now cheerd with ſuch <hi>Caeleſtial Fire,</hi>
+                  </l>
+                  <l>As the renowned <hi>Homer's</hi> did inſpire.</l>
+                  <l>
+                     <hi>England</hi> might <hi>Iliads,</hi> and <hi>Odyſſeas</hi> bear,</l>
+                  <l>And <hi>Roger</hi> ſhould <hi>
+                        <g ref="char:V">Ʋ</g>lyſſes Enſigns</hi> wear.</l>
+                  <l>
+                     <hi>Divine Achilles</hi> would, and but that one,</l>
+                  <l>Stand here betwixt <hi>L'Eſtrange</hi> and <hi>Charles le bon.</hi>
+                  </l>
+                  <l>
+                     <hi>Peers</hi> won't this grudge, their <hi>Virtues</hi> in each <hi>Scheme,</hi>
+                  </l>
+                  <l>Are <hi>adaequate,</hi> they differ but in name.</l>
+                  <l>The <hi>Greeks</hi> with <hi>Honors</hi> did <hi>
+                        <g ref="char:V">Ʋ</g>lyſſes</hi> Crown,</l>
+                  <l>(Brave grateful <hi>Greeks</hi>) and what ſhall ours have none?</l>
+                  <l>
+                     <hi>Athens</hi> ſhould <hi>Orators</hi> and <hi>Captains</hi> yield,</l>
+                  <l>(In confidence of whom they ſo oft rebell'd:)</l>
+                  <l>To his will, Earths <hi>Monarch</hi> ſaid, ſo they compell'd,</l>
+                  <l>
+                     <hi>Warriors,</hi> by no means <hi>Orators</hi> expell'd.</l>
+                  <l>They'd yield their <hi>lives</hi> aſſoon, this ſpeaks how dear,</l>
+                  <l>With <hi>Wiſe men</hi> wiſe, and <hi>Loyal States men</hi> were:</l>
+                  <l>And well they might, for in theſe <hi>Watchmen</hi> dwell,</l>
+                  <l>
+                     <hi>Lives Liberties,</hi> and all that's <hi>Paralel.</hi>
+                  </l>
+                  <l>
+                     <hi>Philipp</hi> would likewiſe from them raiſe his <hi>Seige.</hi>
+                     <note place="margin">
+                        <hi>Curt.</hi> lib. 2. fol. 17.</note>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Philippus,</hi> Macedo Pa<g ref="char:EOLhyphen"/>ter <hi>Alexan<g ref="char:EOLhyphen"/>dri magni.</hi>
+                     </note>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o they ten <hi>Hoſtages</hi> would grant his <hi>Liege.</hi>
+                  </l>
+                  <l>Then ſaid <hi>Demoſthenes;</hi> the <hi>VVolves</hi> would <hi>League,</hi>
+                  </l>
+                  <l>VVith Shepherds; ſo their <hi>Maſtiffs</hi> they'd <hi>reneague,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he cauſe of all the ſtrife: this brings to mind,<note place="margin">Viz. <hi>10.</hi> Orators.</note>
+                  </l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>treigues</hi> of late, of the ſame <hi>wolfiſh kind:</hi>
+                  </l>
+               </lg>
+               <pb n="2" facs="tcp:53530:2"/>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </q>
+               <p>In Engliſh,</p>
+               <q>Glory from a Multitude is better than much Wealth.
+<bibl>
+                     <hi>ISOCRATES.</hi>
+                  </bibl>
+               </q>
+               <note place="margin">Alter <hi>Hippias</hi> no<g ref="char:EOLhyphen"/>mine cum imper um paternum teneret in<g ref="char:EOLhyphen"/>terfecto<g ref="char:EOLhyphen"/>rem fratris compre<g ref="char:EOLhyphen"/>hendi jubet qui cum <hi>per</hi> tormen<g ref="char:EOLhyphen"/>ta conſcios caedis no<g ref="char:EOLhyphen"/>minare co<g ref="char:EOLhyphen"/>geretur. omnes ami. cos tyranni nom may it: quibus in<g ref="char:EOLhyphen"/>terfectis qua<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ii tyranno an adhuc reli<g ref="char:EOLhyphen"/>qui conſcij eſſent? nemo, ait, ſupereſt, quem am<g ref="char:EOLhyphen"/>plius morigeſtiam, quam ip<g ref="char:EOLhyphen"/>ſum tyran<g ref="char:EOLhyphen"/>num. Juſti<g ref="char:EOLhyphen"/>ni, lib 2.</note>
+               <lg>
+                  <l>
+                     <hi>Strange, Strange, Demands</hi> Smell'd they of want of <hi>ſenſe</hi>
+                  </l>
+                  <l>
+                     <hi>Moſt,</hi> or of the <hi>Phanatique Impudence?</hi>
+                  </l>
+                  <l>Or did the <hi>wolves</hi> that do infeſt our Land,</l>
+                  <l>Think they a <hi>Dick,</hi> or <hi>Hippias</hi> had in hand?</l>
+                  <l>No, no, our Sovereign <hi>Shepherd</hi> was too wiſe,</l>
+                  <l>By <hi>Nature, Art,</hi> and the late <hi>Exerciſe;</hi>
+                  </l>
+                  <l>To give thoſe <hi>honest men</hi> who would repay,</l>
+                  <l>As they his Father did but t'other day</l>
+                  <l>That is not yet forgot, nor will it be,</l>
+                  <l>Till <hi>Time</hi> be ſwallow'd in <hi>Eternity.</hi>
+                  </l>
+                  <l>His <hi>Maſtiffs</hi> give 'em, who would him devour,</l>
+                  <l>(Nay God himſelf for <hi>money</hi> they'd <hi>deflour)</hi>
+                  </l>
+                  <l>Not only take the <hi>fruits</hi> but kill the <hi>heirs,</hi>
+                  </l>
+                  <l>That the <hi>Vine-Yard</hi> might be for ever theirs.</l>
+                  <l>This as the <hi>Shepherds Maſtiff ſtout</hi> doth keep,</l>
+                  <l>Thoſe <hi>Wolves,</hi> the <hi>Whigs</hi> from <hi>worrying</hi> of the <hi>Sheep</hi>
+                  </l>
+                  <l>He merits from the <hi>Crown;</hi> all honeſt men.</l>
+                  <l>He'll bring Fanaticks to their <hi>wits</hi> agen;</l>
+                  <l>Vnleſs they are damn'd by <hi>Crimes</hi> ſo inſolent,</l>
+                  <l>That they with the <hi>Sphinx Titus</hi> can't repent.</l>
+                  <l>Thoſe <hi>Saints</hi> that <hi>Muffty</hi> for their <hi>ſaviour</hi> cry'd,</l>
+                  <l>
+                     <note place="margin">Deflour, <hi>viz.</hi> to rob God of his Honour.</note>And now the <hi>ſaviour</hi> will be <hi>Crucifi'd.</hi>
+                  </l>
+                  <l>Never did Villain yet deſerve it more,</l>
+                  <l>Then may our Turks their <hi>Mahomet</hi> adore.</l>
+                  <l>Could mere man bear that <hi>Badge</hi> without a ſin,</l>
+                  <l>This <hi>Patriot</hi> for it, fairly hath put in.</l>
+                  <l>For when the <hi>ſaviour</hi> deſign'd nothing more,</l>
+                  <l>Than a Sea of <hi>Blood,</hi> his <hi>Antidotes</hi> reſtore.</l>
+                  <l>
+                     <hi>Good David</hi> with his lyre charm'd raving <hi>Saul,</hi>
+                  </l>
+                  <l>So this <hi>Iſocrates,</hi> this learned <hi>Paul,</hi>
+                  </l>
+                  <l>By <hi>Whigs</hi> blown frantick with his lovely ſtrain,</l>
+                  <l>Converts this <hi>Land</hi> to <hi>ſober ſenſe</hi> again.</l>
+                  <l>A <hi>Land</hi> which doth with Milk <hi>and</hi> Hony flow,</l>
+                  <l>Here's <hi>Dame</hi> and <hi>Daughter; Peace,</hi> and <hi>Plenty</hi> too.</l>
+                  <l>
+                     <hi>A Canaan</hi> with all earthly Comforts Bleſt,<note place="margin">L'Eſtrange</note>
+                  </l>
+                  <l>Bleſt yet in that 'tis Bleſſed <hi>Abraham</hi>'s reſt.</l>
+               </lg>
+               <pb n="3" facs="tcp:53530:2"/>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </q>
+               <p>In Engliſh,</p>
+               <q>The Wiſe Man ſhall be called the Delight of the Citizens <bibl>
+                     <hi>PHOCYLIDES.</hi>
+                  </bibl>
+               </q>
+               <lg>
+                  <l>
+                     <note place="margin">Ny Cred y mol nes gwelo y mennyth. <hi>Proverb.</hi>
+                     </note>We have <hi>good David,</hi> and <hi>wiſe Solomon,</hi>
+                  </l>
+                  <l>(Wonders of <hi>Mercy</hi> they to <hi>Whigs</hi> have <hi>ſhown</hi>)</l>
+                  <l>Reſtor'd, preſerv'd by ſuch mirac'lous hand,</l>
+                  <l>As transfer'd <hi>Iſrael</hi> to the <hi>holy land.</hi>
+                     <note place="margin">Latina.</note>
+                  </l>
+                  <l>Here we have <hi>Moſes</hi> and the <hi>Goſpel</hi> read,</l>
+                  <l>
+                     <note place="margin">Ne ſuade<g ref="char:EOLhyphen"/>la quidem perſuaſerit dum ſero ſit.</note>Yea, mighty <hi>apparitions</hi> from the dead.</l>
+                  <l>Yet <hi>Corahs Gang</hi> rebells: <hi>ſaducean ſeed,</hi>
+                  </l>
+                  <l>Ingrateful, Bloody, <hi>Antichriſtian breed.</hi>
+                  </l>
+                  <l>A <hi>Land</hi> which doth the <hi>Phaenix</hi> now poſſeſs;</l>
+                  <l>
+                     <note place="margin">The <hi>Athe<g ref="char:EOLhyphen"/>nians</hi> e<g ref="char:EOLhyphen"/>rected Sta<g ref="char:EOLhyphen"/>tues in ho<g ref="char:EOLhyphen"/>nour of <hi>So<g ref="char:EOLhyphen"/>crates. La<g ref="char:EOLhyphen"/>ertius.</hi>
+                     </note>Too happy, if it knew its happineſs.</l>
+                  <l>Let it as <hi>Athens,</hi> for him <hi>ſtatues</hi> raiſe,</l>
+                  <l>Adorn his <hi>brow</hi> with everlaſting <hi>Bays.</hi>
+                  </l>
+                  <l>And men on earth do <hi>ſervice</hi> at his <hi>Tomb,</hi>
+                  </l>
+                  <l>VVhen God this <hi>Victor</hi> doth in heaven Crown:</l>
+                  <l>
+                     <note place="margin">Service to God at the Tombes of, <hi>&amp;c. Jewel.</hi>
+                     </note>
+                     <hi>Divines</hi> conclude all humane <hi>Eloquence,</hi>
+                  </l>
+                  <l>Beneath the God-like <hi>Abrahams</hi> excellence.</l>
+                  <l>No <hi>Oratators</hi> compleatly could expreſs,</l>
+                  <l>The holy <hi>Patriarchs</hi> heavenly-mindedneſs.</l>
+                  <l>Nor can I this. 'tis true I have too will,</l>
+                  <l>How to perform I find not in my skill.</l>
+                  <l>
+                     <hi>To</hi> ſoar ſo high is not of my poor wing,</l>
+                  <l>If it were dipt in the <hi>Caſtalian Spring</hi>
+                  </l>
+                  <l>Then would I volumes write, I tell thee <hi>Trim,</hi>
+                  </l>
+                  <l>Proteſt they ſhould be all in praiſe of him.</l>
+                  <l>
+                     <note place="margin">The <hi>Philo<g ref="char:EOLhyphen"/>ſophers,</hi> had their De<g ref="char:EOLhyphen"/>tractours. <hi>Plutarch.</hi>
+                     </note> Come <hi>Curtis, Care,</hi> and all the canting Crew,</l>
+                  <l>You cannot face this <hi>ſun,</hi> ſuch <hi>Apes</hi> as you.</l>
+                  <l>Grand <hi>Sophies</hi> ever had ſome Currs to whine</l>
+                  <l>At them: but Hereticks make <hi>Hero</hi>'s ſhine.</l>
+                  <l>Shine lofty ſoul, thy <hi>wit, worth,</hi> works aſpire,</l>
+                  <l>'Bove <hi>hate,</hi> yea <hi>praiſe: Theams</hi> for us to admire.</l>
+                  <l>VVhich will, while time laſts, eternize thy <hi>name,</hi>
+                  </l>
+                  <l>Open the <hi>Ears</hi> of Men, the <hi>Gates</hi> of <hi>Fame.</hi>
+                  </l>
+                  <l>Hold then my <hi>Muſe,</hi> none can this <hi>ſubject</hi> hit,</l>
+                  <l>Vnleſs <hi>L'Eſtrange</hi> himſelf, or <hi>Angels</hi> writ.</l>
+               </lg>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Mota manus Procerum eſt, et quid Facundia poſſet,</hi>
+                     </l>
+                     <l>
+                        <hi>Tum patuit: Fortiſque viri tulit arma Diſertus.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:53530:3"/>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </p>
+               </q>
+               <p>In Engliſh,</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Not Jove himſelf can all men pleaſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Whether he doth Rain, or he doth ceaſe.</hi>
+                     </l>
+                  </lg>
+                  <bibl>Theognis.</bibl>
+               </q>
+               <p>
+                  <note place="margin">
+                     <hi>Iſocrates</hi> ad nicoclem oratio ſe<g ref="char:EOLhyphen"/>cunda pa<g ref="char:EOLhyphen"/>gina.</note>
+               </p>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </q>
+               <note place="margin">81.87.93.109.</note>
+               <div type="translation">
+                  <head>The Tranſlation.</head>
+                  <p>APply your ſelf to the moſt prudent of them who are about you; and ſend for what others you can, and think it not convenient to be a ſtranger to well-approved <hi>Orators:</hi> give to the wiſe the Liberty of declaring their minds freely; and have the diſcreet, and ſuch as can ſee further than others, in great eſteem, and veneration; knowing this, that a good Counſeller, is the moſt profitable and King<g ref="char:EOLhyphen"/>ly Poſſeſſion. Judge thoſe to be liklieſt to make your Kingdom who can beſt fur<g ref="char:EOLhyphen"/>niſh your underſtanding: Honour your Friends with the Principal, and the moſt Benevolent with the trueſt of your Honors.</p>
+                  <p>Deem the ſafeſt Guard of your perſon to be the Virtue of your Friends, and your own prudence, for theſe are the things by which Dominion is both gain'd, and maintained.</p>
+                  <p>This is ſome of the advice of <hi>Iſocrates,</hi> a moſt excellent and learned <hi>Orator,</hi> who was accounted the wiſeſt Man on Earth; and indeed who rightly conſider his writings (than which nothing can be more curious) will eaſily imagine it to be true. So that as <hi>Alexander the Great,</hi> often pronounced the <hi>Greek Heroes</hi> happy, for that they had <hi>Homer</hi> to <hi>immortaliſe</hi> their <hi>Fame,</hi> by ſtreining the <hi>Quinteſſence,</hi> and <hi>Heroicneſs</hi> of <hi>Wiſdom,</hi> and <hi>Fortitude</hi> to ſo ſublime a pitch; (which) beſides that he was ſo Eminently learned himſelf, having been ſo long the ſcholar of <hi>Ari<g ref="char:EOLhyphen"/>ſtotle,</hi> and ſo great a Proficient, that it became a queſtion, whether <hi>Alexander the Great</hi> ow'd more to his <hi>Father Philipp,</hi> or to his <hi>Schoolmaſter Ariſtotle</hi>) I fancy a <hi>Topick</hi> of that ſingular Veneration he had for all learned men, teſtified by munifi<g ref="char:EOLhyphen"/>cent Bounty, and a warm ſympathiſing tenderneſs, above (I think) any other Exam<g ref="char:EOLhyphen"/>ples <hi>Hiſtory</hi> affords.) So may we eſteem <hi>Nicocles</hi> happy, who had <hi>Iſocrates</hi> (the wiſeſt man in the World) to be <hi>his Orator.</hi> And ſo may we Congratulate <hi>the hap<g ref="char:EOLhyphen"/>pineſs</hi> of our moſt Gracious <hi>Monarch,</hi> and <hi>his Kingdoms</hi> in <hi>that</hi> incomparable <hi>Ora<g ref="char:EOLhyphen"/>tor Roger L'Eſtrange;</hi> who for <hi>Loyalty, Wiſdom,</hi> and <hi>Eloquence</hi> comes, but in time, behind <hi>any</hi> of the Ancient <hi>Philoſophers;</hi> nay we may conclude all <hi>Princes</hi> and <hi>Po<g ref="char:EOLhyphen"/>tentates</hi> happy, who are accommodated with ſuch faithful worthy <hi>Oratours;</hi> and do give ſuch <hi>Honor;</hi> and <hi>Deference</hi> unto them as <hi>Alexander</hi> did, by which means indeed, he might well become great.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>A. Harris,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
